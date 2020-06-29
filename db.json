@@ -1,0 +1,39 @@
+{
+  
+  "profile": [
+    {
+    "id":1,
+    "name": "AAM Low Duration Peferred and Income Securities (ETF)",
+    "data":[
+             0,
+             0.45,
+             0.45,
+             0.45,
+             0.45,
+             0.45,
+             0.45,
+             0.45,
+             0.45,
+             0.45,
+             0.45,
+             0.45,
+             0.45,
+             0.45,
+             0.45,
+             0.45,
+             0.45
+    ],
+    "Details":[
+      {
+          "Objective":"Growth and Income",
+          "MorningstarCatergory":"Perferred Stock",
+          "ReturnSinceInception":"-3.15%"
+      }
+    ]
+  },
+  {
+      "id":2,
+      "name":"AA"
+    }
+    ]
+}
